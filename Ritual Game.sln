@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{B6D2CB69-09DA-0D69-A9BD-9F5AB8FD7B37}") = "Ritual Game", "Assembly-CSharp.csproj", "{067A9B45-AFC1-8E3F-9EE5-479C5B164684}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ritual Game.CSharp", "Ritual Game.CSharp.csproj", "{36F650FF-9694-8A15-08BC-312FD8079412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{067A9B45-AFC1-8E3F-9EE5-479C5B164684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{067A9B45-AFC1-8E3F-9EE5-479C5B164684}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{067A9B45-AFC1-8E3F-9EE5-479C5B164684}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{067A9B45-AFC1-8E3F-9EE5-479C5B164684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F650FF-9694-8A15-08BC-312FD8079412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F650FF-9694-8A15-08BC-312FD8079412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F650FF-9694-8A15-08BC-312FD8079412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F650FF-9694-8A15-08BC-312FD8079412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
